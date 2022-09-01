@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Animowany
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning JavaScript, Java
+- 💞️ I’m looking to collaborate on minecraft projects
+- 📫 How to reach me discord vAnimo#6935
